@@ -1,2 +1,1 @@
-# mytestapp
-#just checking autobuild
+# mytestapp - just checking autobuild
